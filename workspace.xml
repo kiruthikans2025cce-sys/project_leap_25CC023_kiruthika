@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01abc647-577e-4f91-ada8-adec7948f113" name="Changes" comment="" />
+    <list default="true" id="3ee0f8e2-53dc-4dc8-99a9-1c0630d3ba33" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -17,11 +25,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3JRwmvniEbING4nWlZgBfzOWZJS" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3JRQgqlQOsf4uhxKSqhIUrsbXrp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,14 +37,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ProjectLeap25cc023KiruthikaApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": ""
+    "last_opened_file_path": "C:/Users/Kiruthika/Downloads/project_leap_25cc023_kiruthika/project_leap_25cc023_kiruthika",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ProjectLeap25cc023KiruthikaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="project_leap_25cc023_kiruthika" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.project_leap_25cc023_kiruthika.ProjectLeap25cc023KiruthikaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,11 +69,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01abc647-577e-4f91-ada8-adec7948f113" name="Changes" comment="" />
-      <created>1789637351282</created>
+      <changelist id="3ee0f8e2-53dc-4dc8-99a9-1c0630d3ba33" name="Changes" comment="" />
+      <created>1789621514946</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1789637351282</updated>
+      <updated>1789621514946</updated>
     </task>
     <servers />
   </component>
